@@ -21,7 +21,6 @@ Este projeto é um sistema simples de controle de estoque feito em `linguagem C`
 ## 📋 O que melhorar
 
 - [ ] Adicionar a função de remoção de produtos em estoque.
-- [ ] Colocar fotos nessse readme 😅.
 
 ---
 

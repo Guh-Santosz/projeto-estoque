@@ -27,7 +27,7 @@ Uma imagem de como é o menu principal das operações do sistema.
 ## 🧱 Tecnologias utilizadas
 
 - Linguagem C.
-- Gravação em arquivos binários (`fwrite`, `fread`).
+- Manipulação e criação de arquivos binários (`fwrite`, `fread`, `fseek`).
 - Compilador `GCC` (ou `MinGW` no Windows).
 
 ## 📋 O que melhorar

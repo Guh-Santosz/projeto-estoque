@@ -38,7 +38,7 @@ Uma imagem de como é o menu principal das operações do sistema.
 
 ## ⚙️ Como compilar e executar
 
-O sistema não possui interface gráfica própria, portanto sua execução é via terminal. Portanto, o sistema deve ser executado em ambiente Windows, pois utiliza funções específicas deste sistema operacional.
+O sistema não possui interface gráfica própria, portanto sua execução é via terminal. Sendo assim, o sistema deve ser executado em ambiente Windows, pois utiliza funções específicas deste sistema operacional.
 
 ### Compilar:
 

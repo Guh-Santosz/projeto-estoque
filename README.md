@@ -6,11 +6,23 @@ Este projeto é um sistema simples de controle de estoque feito em `linguagem C`
 
 ## 🚀 Funcionalidades
 
+O programa simula um gestor de estoque, com funções de cadatro, exibição de produtos, pesquisa por codigo, alteração de preço e quantidade. Em suma são:
+
 - Cadastro de produtos com nome, código, quantidade e preço.
 - Consulta ao estoque atual.
 - Entrada e saída de itens.
 - Atualização de dados.
 - Salvamento em arquivos `.bin`.
+
+# 🖥 Exemplo gráfico
+
+Uma imagem de como é o menu principal das operações do sistema.
+
+![imagem do menu](./foto-menu/exemplo-menu.png)
+
+É um sistema simples, mas que serviu de bastante aprendizado.
+
+---
 
 ## 🧱 Tecnologias utilizadas
 
